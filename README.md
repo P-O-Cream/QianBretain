@@ -1,58 +1,50 @@
-<h1>浅的主页</h1>
-<h5>1.写在前面 
-本人匿名浅梦，第一次来CSDN社区，希望能加入一些组织，以下是对我阅历的简述，请各位过目！
-PS.本人作品大多偏向于Web开发和python游戏（或UI库组件），不善于开发Scrach项目
+<h1>Qian's Namepage</h1>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<h2>1.Above </h3>
 
-本人学而思网站账号：学而思编程-学而思网校-受益一生的能力 (xueersi.com)       
+<h5>I am an anonymous shallow dream, and this is my first time coming to Github. I hope to join some organizations. Below is a brief description of my experience, please take a look!
+PS. Most of my works lean towards web development and Python games (or UI library components), and I am not good at developing Scrach projects</h5>
 
-本人共创账号：浅的主页 - 共创世界(ccw.site) - Scratch、游戏、动画、漫画、小说、编程创作社区
 
-本人CSDN账号：浅EleVEn的博客_CSDN博客-python教程领域博主
+<h3>My Other website account: 
+Xes：https://code.xueersi.com/space/4947453
+CCW：https://www.ccw.site/student/63f03ecce77d1a05041bf230</h3>
+稀土掘金：https://juejin.cn/user/266522441825144
+Github：https://github.com/QianBretain
+GitCode：https://gitcode.net/m0_72412280
+Inscode：https://inscode.csdn.net/@8x-EiGHt-Qian
+DevPress：https://devpress.csdn.net/inscode/64636fef77f0ca41cb317381.html#devmenu8
+CSDN（灌水乐园）：https://blog.csdn.net/m0_72412280?spm=1010.2135.3001.5343</h3>
 
-本人InsCode账号：浅 - InsCode (csdn.net)
 
-本人Gitcode账号：浅EleVEn · GitCode 
 
-2.主要作品
-浅EleVEn / Subsist 1.3.4 pre2 · GitCode
-1.Subsist
-游戏亮点：使用较多原创技术，在学而思社区方面均为首创（python同类沙盒在本项目推出前是没有的），且使用自制UI（图形？）库，使用二维柏林噪声作为地图根基，游戏体验及指令完备，有合成，背包UI功能，具备一般沙盒所需标准。
+<h2>2. Main works</h2>
 
-版本叠加：1.3.4 y（1.3.4开发中）
+<h5>You can see
 
-起始时间：2022/8/?
+1. Subsist
 
-简介：本游戏受MC和 Survive启发，结合mysquare的地形生成系统以及多方亮点，使用（不同于cpp或pygame）python终端开发，方块用256*256*256的\033显示像素，像素块大小1字节*2字节，游戏大小769行（实时更新），拥有插入模组功能，存档码以列表（二维）形式展现，此外还沿用了前大型作品（作者均为浅梦本人）Escape的choose控件和Terminal函数丰富游戏内容。
+Highlight of the game: It uses a lot of original technology and is the first in the Xueersi community (similar Python sandboxes were not available before the launch of this project). It also uses a self-made UI (graphics?) library and uses 2D Berlin noise as the map foundation. The game experience and instructions are complete, with synthesis and backpack UI functions, and meets the standards required for general sandboxes.
 
-继续开发方向：使用gotoxy覆盖功能完备输出超出功能，加入debug功能，加入namespace功能，加入熔炉和指令组，加入无限世界，加入更多生物群系和其生成环境合理，复杂化等
+Version overlay: 1.3.4 y (1.3.4 under development)
+Starting time: August 2022?
 
-2.PSUIL——一个UI（图形？）非标准库
-学而思编程-学而思网校-受益一生的能力 (xueersi.com)
-这是一个特殊的项目，是一个非标准库，全称Python Simple UI Library，拥有社区最多的项目控件，包括大多数的自创控件，可以自行前往复制pycharm（本地，lixus均可）使用效果更棒
 
-接下来将加入更多项目，包括何延开发的3D引擎等更多矩阵控件，获得更好的开发，本作品支持投稿合作，我们欢迎所有人的投稿加强性能
 
-版本叠加：0.0.2 beta
+Introduction: This game is inspired by MC and Survey, combined with Myssquare's terrain generation system and various highlights. It is developed using (different from CPP or Pygame) Python terminals, with 256 * 256 * 256 033 display pixels for blocks. The pixel block size is 1 byte * 2 bytes, and the game size is 769 rows (real-time update). It has the function of inserting modules, and the archive code is displayed in a list (two-dimensional) form, In addition, it also uses the choose control and terminal function of Escape from previous large-scale works (all authored by Asami myself) to enrich the game content.
 
-起始时间：2023/1/？
 
-3.AHG——强大的终端黑客游戏
-学而思编程-学而思网校-受益一生的能力 (xueersi.com)
-游戏亮点：虽然已经发布的1.0前兆版并不完全，也没有搭载最新原创技术Terminal按钮选择控件，游戏虽不是最佳，但是技术方面代码整齐
 
-版本叠加：1.0（1.1基本开发完成）
+Continuing development direction: use the gotoxy coverage function to complete the output of excess functions, add the debug function, add the namespace function, add the furnace and command group, join the infinite world, add more biome and its generation environment is reasonable and complex, etc
 
-起始时间：2023/2/？
 
-简介：本作品延续了作者惯用的指令组解析模型，参考灵感来自于GHG（作者李梓琪），关卡不多，指令辨析系统有些问题（但是1.1已经解决），在AHG1.1中，我们将终端模拟成虚拟机形式，虽然只能通过键盘按钮选择（因python版本和避免耦合性和依赖三方库），但仍然是前无仅有的，希望各位等待它的到来！
 
-3.理想职位
-请各位在过目我对本人今去年大型项目（老旧项目已经丢失或不能适应python 3.1.0）后，对我的能力进行正确评估后对我进行回复，非常感谢
+2. PSUIL - A non-standard UI library
 
-本人希望能在新组织中获得更多合作python和Web项目的机会，让我的作品和水准获得提升，也喜欢能获得学习其他语言的机会丰富简历
+Xueersi Programming - Xueersi Online School - Ability to Benefit a Lifetime (xueersi. com)
 
-4.写在最后
-我非常欢迎除本社区外的任何组织对我发出邀请，我的求职不仅限于当前社区，再次感谢你能花10分钟对我的简历和作品过目，这是我的荣幸，也希望各大组织能给我一个机会，谢谢！
-————————————————
-版权声明：本文为CSDN博主「浅EleVEn」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/m0_72412280/article/details/130712972</h5>
+This is a special project, a non-standard library, also known as the Python Simple UI Library. It has the most project controls in the community, including most self created controls. You can go and copy pychar (local, lixus can be used) for better results
+
+
+
+Next, more projects will be added, including 3D developed by He Yan
